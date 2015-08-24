@@ -88,8 +88,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.my-elm {
+#cat-image {
     background-image: url("https://lh3.ggpht.com/nlI91wYNCrjjNy5f-S3CmVehIBM4cprx-JFWOztLk7vFlhYuFR6YnxcT446AvxYg4Ab7M1Fy0twaOCWYcUk=s0#w=640&h=426");
+    width: 640px;
+    height: 426px;
 }
 
 
